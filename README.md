@@ -62,6 +62,9 @@ python v2_expense_tracker.py
 ## Screenshots
 <img width="837" height="623" alt="v2_expense_tracker" src="https://github.com/user-attachments/assets/f2c43727-4f59-452c-82e1-a7be73bfcbdc" />
 
+🛠️ Built with curiosity, iteration, and the drive to improve.
+
+This v2 isn’t just an upgrade — it’s proof of growth. The project started simple, but with each tweak I refined the UI, added visual insights, and thought more like a user. It reflects how I debug, redesign, and reimagine features while keeping the experience simple and practical.
 
 ---
 
