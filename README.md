@@ -60,7 +60,8 @@ python v2_expense_tracker.py
 ---
 
 ## Screenshots
-(to be added)
+<img width="837" height="623" alt="v2_expense_tracker" src="https://github.com/user-attachments/assets/f2c43727-4f59-452c-82e1-a7be73bfcbdc" />
+
 
 ---
 
