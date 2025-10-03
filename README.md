@@ -1,7 +1,5 @@
 # Simple Expense Tracker (v2)
 
-# Simple Expense Tracker (v2)
-
 A desktop expense tracker built with **Python + Tkinter + ttkbootstrap**, designed to make personal budgeting simple but effective.  
 This is an improved version of the original [`simple_expense_tracker`](https://github.com/happythursdays/simple_expense_tracker) with added features and a cleaner UI.
 
